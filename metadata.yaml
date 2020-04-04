@@ -1,11 +1,16 @@
 _repo: Loloma-or-Two-years-in-cannibal-land-A-story-of-old-Fiji_61740
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61740-h/images/cover.jpg
 creator:
   author:
     agent_name: Britton, Henry
     gutenberg_agent_id: '51596'
     url: http://www.gutenberg.org/2009/agents/51596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61740#Loloma-or-Two-years-in-cannibal-land-A-story-of-old-Fiji
 gutenberg_issued: '2020-04-02'
 gutenberg_type: Text
 identifiers:
